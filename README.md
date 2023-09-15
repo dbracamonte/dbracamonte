@@ -18,3 +18,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Stats:
+<a href="https://github.com/dbracamonte">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbracamonte&show_icons=true&theme=tokyonight&show_icons=true&count_private=true" />
+</a>
+<a href="https://github.com/dbracamonte">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dbracamonte&line_height=27&show_icons=true&theme=tokyonight&show_icons=true&count_private=true&langs_count=5" />
+</a>
